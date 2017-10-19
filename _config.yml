@@ -1,0 +1,8 @@
+title: GrapesJS
+description: Free and Open source Web Template Editor - Next generation tool for building templates without coding
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
